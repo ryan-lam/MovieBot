@@ -20,3 +20,6 @@ The theory behind chatbots, NLP, word and sentence vectors, cleaning/arranging d
 
 ## What's next for MoiveBot
 Moviebot is fundamentally a chatbot. If we train the chatbot with customer service data, support data, etc. you automate customer support for your business. Making an API for you to add the chatbot onto your website would also be great.
+
+## Video Demo
+[Semantic Similarity Chatbot - Backyard Hacks](https://youtu.be/1ZRnAy85ze0)
