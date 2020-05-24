@@ -10,9 +10,10 @@ MovieBot is a chatbot but only replies to you with movie phrases
 Made with help from a [tutorial](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS), Google Colab, Flask, Spacy, Python, and SimpleNeighbors
 
 ## Challenges I ran into
+Understanding the theory and math behind semantic similarity and reading the documentation to use updated versions of code
 
 ## Accomplishments that I'm proud of
-Finishing my first AI project
+Finishing my first AI project and understanding the theory behind semantic similarity
 
 ## What I learned
 The theory behind chatbots, NLP, word and sentence vectors, cleaning/arranging data, etc.
